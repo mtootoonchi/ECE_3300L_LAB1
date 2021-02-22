@@ -13,7 +13,7 @@ https://youtu.be/7mggknlUh9M
 Archive:
 https://youtu.be/T-GjDDVwlOg
 
-ALso, Here are the pictures.
+Also, Here are the pictures.
 
 Block diagram
 ![Test Image 1](LAB1_BLOCK_DIAGRAM.png)
